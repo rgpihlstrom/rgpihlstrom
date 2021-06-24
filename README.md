@@ -1,4 +1,4 @@
-**Author**:[Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
+
 ## Russell Pihlstrom
 
 
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Email**:[Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
