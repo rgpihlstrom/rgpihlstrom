@@ -12,6 +12,6 @@
 
 <a href="https://www.linkedin.com/in/rgpihlstrom/">
          <img alt="Qries" src="https://github.com/rgpihlstrom/rgpihlstrom/blob/main/linkedinbannerpg1.png"
-         width=150" height="70">
+         width=150" height="50">
       </a>
 <a href = "mailto:rgpihlstrom@yahoo.com">Email Russell Pihlstrom</a>
