@@ -1,4 +1,3 @@
-## Russell Pihlstrom 
 ### Data Scientist with demonstrated successes in leading Marketing and Innovation projects.  
 ### Recent grad of Flatiron Data Science Boot Camp +
 ###                               ...MBA Marketing + 
