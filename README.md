@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-**Email**:[Russell Pihlstrom](mailto:rgpihlstrom@yahoo.com)
-<a href = "mailto:rgpihlstrom@yahoo.com">Send Email Russell Pihlstrom</a>
+<a href = "mailto:rgpihlstrom@yahoo.com">Email Russell Pihlstrom</a>
