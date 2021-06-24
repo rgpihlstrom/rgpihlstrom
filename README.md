@@ -1,7 +1,7 @@
-### Data Scientist with demonstrated successes in leading Marketing and Innovation projects.  
-### Recent grad of Flatiron Data Science Boot Camp +
-###                               ...MBA Marketing + 
-###                               ...Manangment of Information Systems
+### Data Scientist + Marketing and Innovation Leader!  
+##### Recent grad of Flatiron Data Science Boot Camp +
+#####                               ...MBA Marketing + 
+#####                               ...Manangment of Information Systems
 
 - 👀 I’m currently looking for opportunities to blend data science and marketing analytics to drive actionable results!
 - 🌱 I’m currently learning how to blend Data Science techniques to create Marketing relevant metrics.
