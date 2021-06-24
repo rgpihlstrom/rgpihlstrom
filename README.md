@@ -1,5 +1,5 @@
 ## Russell Pihlstrom 
-###Data Scientist with demonstrated successes in leading marketing and innovation related projects.  Recent grad of Flatiron Data Science Boot Camp.
+### Data Scientist with demonstrated successes in leading marketing and innovation related projects.  Recent grad of Flatiron Data Science Boot Camp.
 
 - 👀 I’m currently working on ...
 - 🌱 I’m currently learning ...
